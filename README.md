@@ -2,7 +2,7 @@ Social Media App
 
 This is a social media app created with flutter, postgress and graphql
 
-please switch to the master branch to ge the source code
+please switch to the master branch to get the source code
 
 apk link: https://drive.google.com/file/d/17jEAwO_yJfgd2Vnm-elqZWMYND5RFBf2/view?usp=drive_link
 
