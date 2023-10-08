@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674048460567",
+    "project_id": "raftlabs-dfa2c",
+    "storage_bucket": "raftlabs-dfa2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674048460567:android:e8481d93dd5a896e97d952",
+        "android_client_info": {
+          "package_name": "com.example.raftlabs_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1GYCVJ_E5eI4qk3ZTc5EmLsI6hfUB4kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
